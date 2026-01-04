@@ -1,0 +1,10 @@
+강아지,dog
+간판,sign
+철거,chul
+동물병원,hospi
+고양이,cat
+보호소,boho
+폐기물,pey
+석면철거,chul2
+옥상방수,water
+개인회생,law
