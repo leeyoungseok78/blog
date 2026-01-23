@@ -1,0 +1,1428 @@
+# 일상 주제 목록 (한글,영어)
+# 형식: 한글주제,영어프롬프트
+# 총 3000개
+
+# ========== 음식/카페 (600개) ==========
+아침 식사,breakfast table morning meal
+모닝 커피,morning coffee cup steam
+카페 라떼,cafe latte art coffee
+아메리카노 한 잔,americano coffee cup
+브런치 타임,brunch time food plate
+점심 메뉴,lunch meal dish
+저녁 식사,dinner table evening meal
+야식 먹기,late night snack food
+디저트 타임,dessert time sweet cake
+케이크 한 조각,slice of cake dessert
+마카롱 세트,macaron colorful dessert
+크로와상 빵,croissant bakery pastry
+샌드위치 점심,sandwich lunch meal
+파스타 요리,pasta italian food
+피자 한 판,pizza delicious food
+햄버거 세트,hamburger fast food meal
+초밥 먹기,sushi japanese food
+라멘 한 그릇,ramen noodle soup bowl
+떡볶이 간식,tteokbokki korean snack
+치킨 야식,fried chicken night snack
+삼겹살 저녁,grilled pork korean bbq
+비빔밥 점심,bibimbap korean rice bowl
+김치찌개,kimchi stew korean food
+된장찌개,soybean paste stew korean
+불고기 정식,bulgogi korean beef
+갈비찜 요리,braised short ribs korean
+잡채 요리,japchae glass noodles
+김밥 도시락,kimbap korean roll lunch
+만두 간식,dumpling korean snack
+호떡 간식,hotteok korean pancake
+붕어빵 간식,fish shaped bread snack
+와플 디저트,waffle dessert sweet
+팬케이크 아침,pancake breakfast stack
+토스트 아침,toast breakfast simple
+시리얼 아침,cereal breakfast bowl milk
+오트밀 아침,oatmeal healthy breakfast
+요거트 아침,yogurt breakfast healthy
+과일 접시,fruit plate colorful fresh
+샐러드 점심,salad healthy lunch green
+스무디 음료,smoothie healthy drink
+주스 한 잔,fresh juice glass
+밀크티 음료,milk tea bubble drink
+녹차 라떼,green tea latte drink
+홍차 한 잔,black tea cup afternoon
+허브티 저녁,herbal tea relaxing evening
+핫초코 음료,hot chocolate warm drink
+아이스크림 디저트,ice cream summer dessert
+젤라또 디저트,gelato italian ice cream
+빙수 여름,bingsu korean shaved ice
+타르트 디저트,tart fruit dessert
+브라우니 디저트,brownie chocolate dessert
+쿠키 간식,cookies homemade snack
+머핀 간식,muffin bakery snack
+도넛 간식,donut sweet snack
+베이글 아침,bagel breakfast bread
+식빵 토스트,white bread toast
+바게트 빵,baguette french bread
+치즈케이크,cheesecake creamy dessert
+티라미수,tiramisu italian dessert
+푸딩 디저트,pudding creamy dessert
+에그타르트,egg tart portuguese dessert
+슈크림 빵,cream puff pastry
+카스테라,castella sponge cake
+롤케이크,roll cake swiss dessert
+파운드케이크,pound cake homemade
+레몬케이크,lemon cake citrus dessert
+당근케이크,carrot cake spiced dessert
+초콜릿 케이크,chocolate cake rich dessert
+딸기 케이크,strawberry cake fresh dessert
+생크림 케이크,fresh cream cake birthday
+과일 타르트,fruit tart colorful dessert
+애플파이,apple pie homemade dessert
+체리파이,cherry pie fruit dessert
+블루베리 머핀,blueberry muffin breakfast
+초코칩 쿠키,chocolate chip cookie
+오레오 쿠키,oreo cookie cream
+마들렌 과자,madeleine french cookie
+피낭시에 과자,financier french pastry
+카눌레 과자,canele french pastry
+에클레어,eclair french pastry
+밀푀유,mille feuille pastry
+몽블랑 디저트,mont blanc chestnut dessert
+판나코타,panna cotta italian dessert
+크렘브륄레,creme brulee french dessert
+무스케이크,mousse cake light dessert
+오페라 케이크,opera cake layered dessert
+레드벨벳 케이크,red velvet cake cream cheese
+바닐라 케이크,vanilla cake classic dessert
+모카 케이크,mocha cake coffee flavor
+말차 케이크,matcha cake green tea
+흑임자 케이크,black sesame cake korean
+고구마 케이크,sweet potato cake
+밤 케이크,chestnut cake autumn
+호두 파이,walnut pie nutty dessert
+피칸 파이,pecan pie southern dessert
+코코넛 케이크,coconut cake tropical
+망고 빙수,mango bingsu summer dessert
+딸기 빙수,strawberry bingsu korean
+팥빙수,red bean bingsu korean classic
+인절미 빙수,injeolmi rice cake bingsu
+오레오 빙수,oreo bingsu chocolate
+녹차 빙수,green tea bingsu matcha
+커피 빙수,coffee bingsu cafe dessert
+요거트 빙수,yogurt bingsu healthy
+과일 빙수,fruit bingsu colorful fresh
+치즈 빙수,cheese bingsu creamy
+초코 빙수,chocolate bingsu rich
+카라멜 빙수,caramel bingsu sweet
+버블티,bubble tea boba drink
+타로 밀크티,taro milk tea purple drink
+흑당 버블티,brown sugar bubble tea
+말차 라떼,matcha latte green tea
+바닐라 라떼,vanilla latte sweet coffee
+카라멜 마키아토,caramel macchiato coffee
+헤이즐넛 라떼,hazelnut latte nutty coffee
+모카 라떼,mocha latte chocolate coffee
+플랫화이트,flat white espresso milk
+콜드브루,cold brew iced coffee
+아인슈페너,einspanner vienna coffee
+에스프레소,espresso shot strong coffee
+카푸치노,cappuccino foam coffee
+카페모카,cafe mocha chocolate coffee
+연유 라떼,condensed milk latte sweet
+흑당 라떼,brown sugar latte sweet
+꿀 아메리카노,honey americano sweet coffee
+바닐라 콜드브루,vanilla cold brew iced
+카라멜 콜드브루,caramel cold brew sweet
+오트밀크 라떼,oat milk latte plant based
+아몬드 라떼,almond milk latte nutty
+두유 라떼,soy milk latte korean
+코코넛 라떼,coconut milk latte tropical
+복숭아 아이스티,peach iced tea refreshing
+레몬 아이스티,lemon iced tea citrus
+자몽 에이드,grapefruit ade citrus drink
+레몬 에이드,lemonade refreshing summer
+청포도 에이드,green grape ade fresh
+딸기 에이드,strawberry ade berry drink
+블루베리 에이드,blueberry ade berry drink
+망고 스무디,mango smoothie tropical
+딸기 스무디,strawberry smoothie berry
+바나나 스무디,banana smoothie creamy
+키위 스무디,kiwi smoothie green fresh
+복숭아 스무디,peach smoothie summer
+수박 주스,watermelon juice summer
+오렌지 주스,orange juice citrus fresh
+사과 주스,apple juice sweet fresh
+포도 주스,grape juice purple sweet
+당근 주스,carrot juice healthy orange
+토마토 주스,tomato juice red healthy
+셀러리 주스,celery juice green detox
+케일 주스,kale juice green healthy
+시금치 주스,spinach juice green iron
+비트 주스,beet juice red healthy
+생강차,ginger tea warm healthy
+유자차,yuzu tea citrus korean
+대추차,jujube tea korean traditional
+쌍화차,ssanghwa tea korean herbal
+모과차,quince tea korean aromatic
+매실차,plum tea korean refreshing
+오미자차,omija tea korean berry
+레몬차,lemon tea citrus warm
+캐모마일 차,chamomile tea relaxing
+페퍼민트 차,peppermint tea refreshing
+루이보스 차,rooibos tea caffeine free
+얼그레이 티,earl grey tea bergamot
+잉글리시 브렉퍼스트,english breakfast tea
+다즐링 티,darjeeling tea indian
+아쌈 티,assam tea strong indian
+우롱차,oolong tea chinese
+보이차,pu erh tea chinese aged
+자스민 티,jasmine tea floral chinese
+국화차,chrysanthemum tea floral
+장미차,rose tea floral sweet
+라벤더 차,lavender tea calming
+히비스커스 차,hibiscus tea red tart
+스테이크 저녁,steak dinner meat
+연어 스테이크,salmon steak seafood
+새우 파스타,shrimp pasta seafood
+해산물 파스타,seafood pasta marinara
+크림 파스타,cream pasta white sauce
+토마토 파스타,tomato pasta red sauce
+알리오올리오,aglio olio garlic pasta
+봉골레 파스타,vongole clam pasta
+카르보나라,carbonara creamy pasta
+라자냐,lasagna layered pasta
+리조또,risotto italian rice
+뇨끼,gnocchi potato pasta
+라비올리,ravioli stuffed pasta
+페투치니,fettuccine ribbon pasta
+펜네 파스타,penne tube pasta
+스파게티,spaghetti classic pasta
+마르게리따 피자,margherita pizza tomato basil
+페퍼로니 피자,pepperoni pizza spicy
+하와이안 피자,hawaiian pizza pineapple ham
+고르곤졸라 피자,gorgonzola pizza cheese
+콤비네이션 피자,combination pizza mixed
+포테이토 피자,potato pizza creamy
+불고기 피자,bulgogi pizza korean style
+새우 피자,shrimp pizza seafood
+치즈 피자,cheese pizza classic
+바베큐 피자,bbq pizza smoky
+타코,taco mexican food
+부리또,burrito mexican wrap
+퀘사디아,quesadilla mexican cheese
+나초,nachos mexican chips
+살사,salsa mexican dip
+과카몰리,guacamole avocado dip
+엔칠라다,enchilada mexican roll
+파히타,fajita mexican grill
+커리 라이스,curry rice japanese
+돈까스,tonkatsu pork cutlet
+우동,udon noodle soup
+소바,soba buckwheat noodle
+오코노미야끼,okonomiyaki japanese pancake
+타코야끼,takoyaki octopus ball
+규동,gyudon beef bowl
+카츠동,katsudon pork cutlet bowl
+오야코동,oyakodon chicken egg bowl
+텐동,tendon tempura bowl
+치라시,chirashi scattered sushi
+사시미,sashimi raw fish
+참치회,tuna sashimi fresh
+연어회,salmon sashimi fresh
+광어회,flatfish sashimi korean
+우니,uni sea urchin
+이쿠라,ikura salmon roe
+타마고,tamago egg sushi
+장어 덮밥,unagi don eel rice
+소고기 덮밥,beef don rice bowl
+닭고기 덮밥,chicken don rice bowl
+회덮밥,hoe dupbap raw fish rice
+비빔 냉면,bibim naengmyeon spicy cold noodle
+물냉면,mul naengmyeon cold broth noodle
+쫄면,jjolmyeon chewy noodle
+비빔국수,bibim guksu spicy noodle
+잔치국수,janchi guksu banquet noodle
+칼국수,kalguksu knife cut noodle
+수제비,sujebi hand torn dough soup
+콩국수,kongguksu soy milk noodle
+막국수,makguksu buckwheat noodle
+밀면,milmyeon wheat noodle
+짜장면,jajangmyeon black bean noodle
+짬뽕,jjamppong spicy seafood noodle
+볶음밥,fried rice wok
+김치볶음밥,kimchi fried rice
+새우볶음밥,shrimp fried rice
+불고기볶음밥,bulgogi fried rice
+오므라이스,omurice omelette rice
+하이라이스,hayashi rice japanese
+카레라이스,curry rice japanese style
+덮밥 정식,rice bowl set meal
+백반 정식,korean home meal set
+된장찌개 정식,soybean stew set meal
+김치찌개 정식,kimchi stew set meal
+순두부찌개,soft tofu stew spicy
+부대찌개,army stew korean fusion
+감자탕,pork bone soup potato
+설렁탕,seolleongtang ox bone soup
+갈비탕,galbitang short rib soup
+삼계탕,samgyetang ginseng chicken soup
+육개장,yukgaejang spicy beef soup
+해장국,haejangguk hangover soup
+콩나물국,bean sprout soup
+미역국,seaweed soup birthday
+떡국,tteokguk rice cake soup
+만두국,dumpling soup korean
+수육,boiled pork sliced
+보쌈,bossam wrapped pork
+족발,jokbal pig feet
+닭발,chicken feet spicy
+곱창,gopchang intestine bbq
+막창,makchang intestine grilled
+대창,daechang large intestine
+양념치킨,yangnyeom chicken spicy
+후라이드치킨,fried chicken crispy
+간장치킨,soy garlic chicken
+파닭,green onion chicken
+마늘치킨,garlic chicken savory
+허니버터치킨,honey butter chicken
+크리스피치킨,crispy chicken crunchy
+순살치킨,boneless chicken
+닭강정,dakgangjeong sweet crispy chicken
+찜닭,jjimdak braised chicken
+닭볶음탕,dakbokkeum spicy chicken stew
+닭갈비,dak galbi spicy stir fried chicken
+불닭,fire chicken super spicy
+치즈닭갈비,cheese dak galbi
+삼겹살 구이,grilled pork belly
+목살 구이,grilled pork neck
+항정살 구이,grilled pork jowl
+갈비 구이,grilled short rib
+소갈비 구이,grilled beef rib
+LA갈비,la galbi marinated rib
+양념갈비,marinated galbi sweet
+생갈비,raw galbi unseasoned
+꽃등심,ribeye steak korean
+안심 스테이크,tenderloin steak
+채끝 스테이크,striploin steak
+토시살,hanging tender beef
+살치살,chuck flap tail beef
+부채살,oyster blade beef
+치마살,flank steak beef
+제비추리,beef sirloin flap
+육회,yukhoe raw beef korean
+육사시미,beef sashimi thin sliced
+타르타르,tartare raw beef french
+
+# ========== 날씨/계절/시간 (400개) ==========
+오늘 날씨,today weather sky clouds
+맑은 하늘,clear blue sky sunny
+흐린 날씨,cloudy weather overcast sky
+비 오는 날,rainy day weather drops
+눈 오는 날,snowy day winter weather
+안개 낀 아침,foggy morning misty weather
+무지개 하늘,rainbow sky after rain
+노을 하늘,sunset sky orange pink
+새벽 하늘,dawn sky early morning
+밤하늘 별,night sky stars
+보름달 밤,full moon night sky
+초승달 밤,crescent moon night
+구름 많은 날,cloudy day sky
+소나기 오후,afternoon shower rain
+장마철 비,monsoon season rain
+태풍 주의,typhoon weather stormy
+황사 날씨,yellow dust weather
+미세먼지 날,fine dust hazy day
+맑은 공기,fresh clean air
+상쾌한 바람,refreshing breeze wind
+시원한 바람,cool breeze pleasant
+따뜻한 햇살,warm sunshine rays
+뜨거운 여름,hot summer heat
+서늘한 가을,cool autumn weather
+춥은 겨울,cold winter weather
+포근한 봄,warm cozy spring
+봄비 내리는 날,spring rain drizzle
+여름 소나기,summer rain shower
+가을비 내리는,autumn rain falling
+첫눈 오는 날,first snow winter day
+함박눈 내리는,heavy snow falling
+눈보라 치는,snowstorm blizzard winter
+성에 낀 창문,frost on window winter
+고드름,icicle winter cold
+얼음 언 호수,frozen lake winter
+낙엽 지는 가을,falling autumn leaves
+단풍 구경,autumn foliage colorful
+은행잎 노란,yellow ginkgo leaves
+벚꽃 피는 봄,cherry blossom spring pink
+개나리 봄꽃,forsythia yellow spring
+진달래 봄꽃,azalea pink spring flower
+목련 꽃,magnolia white flower spring
+라일락 향기,lilac fragrant purple spring
+장미 피는 계절,rose blooming season
+해바라기 여름,sunflower summer field
+코스모스 가을,cosmos autumn flower
+국화 가을꽃,chrysanthemum autumn flower
+동백 겨울꽃,camellia winter flower
+매화 초봄,plum blossom early spring
+수선화 봄,daffodil spring yellow
+튤립 봄,tulip spring colorful
+히아신스 봄,hyacinth spring fragrant
+프리지아 향기,freesia fragrant spring
+월요일 아침,monday morning start week
+화요일 오후,tuesday afternoon midweek
+수요일 점심,wednesday lunch hump day
+목요일 저녁,thursday evening almost friday
+금요일 밤,friday night weekend coming
+토요일 오전,saturday morning weekend
+일요일 오후,sunday afternoon relaxing
+주말 아침,weekend morning lazy
+주말 오후,weekend afternoon leisure
+주말 저녁,weekend evening relax
+평일 아침,weekday morning routine
+평일 점심,weekday lunch break
+평일 저녁,weekday evening tired
+새벽 기상,early morning wake up
+아침 출근,morning commute work
+점심시간,lunch time break
+퇴근길,evening commute home
+저녁 시간,evening time dinner
+밤 시간,night time dark
+자정 무렵,around midnight late
+한낮 더위,midday heat hot
+해질녘,sunset time golden hour
+해뜰녘,sunrise time morning glow
+정오 햇살,noon sunshine bright
+오전 시간,morning hours am
+오후 시간,afternoon hours pm
+이른 아침,early morning quiet
+늦은 밤,late night quiet
+깊은 밤,deep night silent
+새벽녘,dawn time early
+황혼 무렵,twilight time dusk
+1월 새해,january new year winter
+2월 발렌타인,february valentine winter
+3월 봄,march spring beginning
+4월 벚꽃,april cherry blossom spring
+5월 가정의 달,may family month spring
+6월 초여름,june early summer
+7월 한여름,july midsummer hot
+8월 휴가,august vacation summer
+9월 초가을,september early autumn
+10월 단풍,october autumn leaves
+11월 늦가을,november late autumn
+12월 연말,december year end winter
+설날 연휴,lunar new year holiday
+추석 연휴,chuseok harvest festival
+크리스마스,christmas winter holiday
+연말 분위기,year end atmosphere festive
+신년 첫날,new year first day
+생일 날,birthday special day
+기념일,anniversary special day
+휴일 오전,holiday morning relax
+공휴일,public holiday day off
+연차 사용,annual leave day off
+반차 오후,half day off afternoon
+월급날,payday happy day
+불금,friday night party time
+꿀토,sweet saturday leisure
+썬데이,sunday funday relaxing
+먼데이블루,monday blues start week
+수요병,wednesday slump midweek
+브런치 주말,weekend brunch late morning
+레이지 선데이,lazy sunday relaxing
+해피 먼데이,happy monday positive start
+
+# ========== 취미/여가 (400개) ==========
+독서 시간,reading time book quiet
+책 읽기,reading book pages
+소설 읽기,reading novel fiction
+에세이 읽기,reading essay literature
+시집 읽기,poetry book reading
+만화책 읽기,manga comic reading
+잡지 읽기,magazine reading lifestyle
+신문 읽기,newspaper reading morning
+전자책 읽기,ebook reading tablet
+오디오북 듣기,audiobook listening
+음악 듣기,listening music headphones
+노래 부르기,singing song karaoke
+악기 연주,playing instrument music
+피아노 연주,playing piano music
+기타 연주,playing guitar music
+우쿨렐레 연주,playing ukulele music
+바이올린 연주,playing violin music
+드럼 연주,playing drums music
+플룻 연주,playing flute music
+하모니카 연주,playing harmonica music
+영화 보기,watching movie cinema
+드라마 보기,watching drama series
+예능 보기,watching variety show
+다큐멘터리 보기,watching documentary
+애니메이션 보기,watching animation anime
+유튜브 보기,watching youtube video
+넷플릭스 보기,watching netflix streaming
+웹툰 보기,reading webtoon digital comic
+그림 그리기,drawing painting art
+수채화 그리기,watercolor painting art
+유화 그리기,oil painting art
+스케치 하기,sketching pencil drawing
+일러스트 그리기,illustration digital art
+캘리그라피,calligraphy lettering art
+색칠 하기,coloring book relaxing
+만들기 공예,crafting handmade diy
+뜨개질 하기,knitting yarn craft
+자수 놓기,embroidery needlework craft
+바느질 하기,sewing fabric craft
+비즈 공예,beading jewelry craft
+가죽 공예,leather crafting handmade
+목공예 만들기,woodworking craft
+도자기 만들기,pottery ceramics craft
+양초 만들기,candle making craft
+비누 만들기,soap making craft
+향수 만들기,perfume making craft
+꽃꽂이,flower arrangement ikebana
+화분 가꾸기,plant care gardening
+정원 가꾸기,garden care outdoor
+텃밭 가꾸기,vegetable garden farming
+요리 하기,cooking homemade food
+베이킹 하기,baking homemade dessert
+커피 내리기,brewing coffee barista
+홈카페,home cafe coffee making
+사진 찍기,photography taking photos
+필름 카메라,film camera analog
+폴라로이드,polaroid instant photo
+셀카 찍기,selfie taking photo
+풍경 사진,landscape photography nature
+인물 사진,portrait photography people
+음식 사진,food photography styling
+야경 사진,night photography city lights
+일출 사진,sunrise photography morning
+일몰 사진,sunset photography golden hour
+운동 하기,exercising workout fitness
+조깅 하기,jogging running outdoor
+러닝 하기,running exercise cardio
+산책 하기,walking stroll outdoor
+등산 하기,hiking mountain climbing
+자전거 타기,cycling biking outdoor
+수영 하기,swimming pool water
+요가 하기,yoga stretching mindful
+필라테스 하기,pilates exercise core
+헬스 운동,gym workout fitness
+홈트 운동,home training workout
+스트레칭 하기,stretching flexibility
+명상 하기,meditation mindfulness
+낮잠 자기,taking nap resting
+휴식 취하기,resting relaxing break
+멍 때리기,spacing out relaxing
+창밖 보기,looking out window view
+하늘 보기,looking at sky clouds
+별 보기,stargazing night sky
+일기 쓰기,writing diary journal
+블로그 쓰기,blogging writing online
+편지 쓰기,writing letter handwritten
+시 쓰기,writing poetry verse
+소설 쓰기,writing novel fiction
+게임 하기,playing games gaming
+보드게임 하기,playing board games
+퍼즐 맞추기,doing puzzle jigsaw
+레고 조립,building lego blocks
+프라모델 조립,building model kit
+크로스워드 퍼즐,crossword puzzle word game
+스도쿠 풀기,solving sudoku number puzzle
+탈출 게임,escape room game
+방탈출,room escape game
+볼링 치기,bowling strike game
+당구 치기,billiards pool game
+다트 던지기,playing darts throwing
+골프 치기,playing golf swing
+테니스 치기,playing tennis racket
+배드민턴 치기,playing badminton shuttle
+탁구 치기,playing ping pong paddle
+축구 하기,playing soccer football
+농구 하기,playing basketball hoop
+야구 하기,playing baseball bat
+배구 하기,playing volleyball net
+스쿼시 치기,playing squash racket
+클라이밍,rock climbing bouldering
+스케이트 타기,ice skating winter
+롤러블레이드,rollerblading inline skating
+스케이트보드,skateboarding trick
+서핑 하기,surfing ocean wave
+윈드서핑,windsurfing water sport
+패들보드,paddleboarding water calm
+카약 타기,kayaking water paddle
+카누 타기,canoeing water paddle
+래프팅,rafting river adventure
+스노보드 타기,snowboarding winter slope
+스키 타기,skiing winter mountain
+썰매 타기,sledding snow winter
+낚시 하기,fishing rod lake river
+캠핑 하기,camping tent outdoor
+글램핑 하기,glamping luxury camping
+백패킹,backpacking hiking travel
+피크닉 가기,picnic outdoor blanket
+소풍 가기,outing day trip
+드라이브 하기,driving road trip
+바다 보기,watching ocean sea view
+산 보기,watching mountain view
+강 보기,watching river stream
+호수 보기,watching lake calm water
+해변 걷기,walking beach sand
+숲속 걷기,walking forest trail
+공원 산책,walking park outdoor
+놀이공원 가기,amusement park rides
+워터파크 가기,water park slides
+동물원 가기,zoo animals visit
+수족관 가기,aquarium fish visit
+박물관 가기,museum art culture visit
+미술관 가기,art gallery exhibition visit
+전시회 가기,exhibition gallery visit
+공연 보기,watching performance show
+콘서트 가기,concert music live
+뮤지컬 보기,watching musical theater
+연극 보기,watching play theater
+오페라 보기,watching opera performance
+발레 보기,watching ballet dance
+클래식 공연,classical music concert
+재즈 공연,jazz music live
+버스킹 구경,busking street performance
+플리마켓 구경,flea market shopping
+벼룩시장 구경,thrift market vintage
+빈티지샵 구경,vintage shop antique
+서점 구경,bookstore browsing
+문구점 구경,stationery shop browsing
+편집샵 구경,select shop fashion
+백화점 구경,department store shopping
+아울렛 쇼핑,outlet shopping bargain
+온라인 쇼핑,online shopping delivery
+배달 음식,food delivery ordering
+택배 받기,receiving package delivery
+
+# ========== 일상/생활 (500개) ==========
+아침 기상,morning wake up routine
+알람 끄기,turning off alarm clock
+이불 개기,folding blanket bed
+침대 정리,making bed tidy
+세수 하기,washing face morning
+양치 하기,brushing teeth hygiene
+샤워 하기,taking shower bathroom
+머리 감기,washing hair shampoo
+머리 말리기,drying hair hairdryer
+스킨케어,skincare routine face
+화장 하기,putting on makeup
+선크림 바르기,applying sunscreen
+머리 손질,styling hair brush
+옷 입기,getting dressed clothes
+출근 준비,getting ready for work
+가방 챙기기,packing bag belongings
+현관 나서기,leaving front door
+엘리베이터 타기,taking elevator building
+버스 타기,taking bus commute
+지하철 타기,taking subway metro
+택시 타기,taking taxi cab ride
+자가용 출근,driving to work car
+도보 출근,walking to work commute
+자전거 출근,cycling to work bike
+회사 도착,arriving at office work
+컴퓨터 켜기,turning on computer
+업무 시작,starting work task
+회의 하기,having meeting office
+미팅 하기,having meeting business
+보고서 작성,writing report document
+이메일 확인,checking email inbox
+전화 받기,answering phone call
+점심시간 외출,lunch break outing
+동료와 점심,lunch with colleague
+혼밥 점심,eating alone lunch
+편의점 점심,convenience store lunch
+구내식당 점심,cafeteria lunch meal
+외근 하기,working outside office
+재택근무,working from home remote
+화상 회의,video conference call
+프레젠테이션,presentation slides work
+야근 하기,working overtime late
+퇴근 하기,leaving work going home
+퇴근길 풍경,commute home scenery
+집에 도착,arriving home tired
+현관문 열기,opening front door home
+신발 벗기,taking off shoes entrance
+손 씻기,washing hands hygiene
+옷 갈아입기,changing clothes home
+편한 옷 입기,wearing comfortable clothes
+소파에 눕기,lying on sofa relaxing
+티비 켜기,turning on tv watching
+에어컨 켜기,turning on air conditioner
+히터 켜기,turning on heater warm
+창문 열기,opening window fresh air
+환기 시키기,ventilating room fresh
+불 켜기,turning on light bright
+불 끄기,turning off light dark
+저녁 준비,preparing dinner cooking
+냉장고 열기,opening refrigerator food
+재료 손질,preparing ingredients cooking
+요리 시작,starting to cook kitchen
+설거지 하기,washing dishes cleaning
+식탁 정리,clearing dining table
+쓰레기 버리기,taking out trash garbage
+분리수거,recycling sorting waste
+청소 하기,cleaning house tidying
+청소기 돌리기,vacuuming floor cleaning
+걸레질 하기,mopping floor wet cleaning
+먼지 털기,dusting furniture cleaning
+빨래 하기,doing laundry washing clothes
+세탁기 돌리기,running washing machine
+빨래 널기,hanging laundry drying
+빨래 개기,folding laundry clothes
+다림질 하기,ironing clothes pressing
+옷장 정리,organizing closet clothes
+서랍 정리,organizing drawers tidy
+책상 정리,organizing desk workspace
+화장대 정리,organizing vanity makeup
+신발장 정리,organizing shoe rack
+침구 정리,organizing bedding blanket
+베개 정리,fluffing pillow bed
+커튼 열기,opening curtains sunlight
+커튼 닫기,closing curtains privacy
+블라인드 내리기,lowering blinds window
+창문 닫기,closing window secure
+문 잠그기,locking door secure
+가스 확인,checking gas stove safety
+전기 확인,checking electricity safety
+물 잠그기,turning off water tap
+보일러 켜기,turning on boiler heat
+보일러 끄기,turning off boiler heat
+공기청정기 켜기,turning on air purifier
+가습기 켜기,turning on humidifier
+제습기 켜기,turning on dehumidifier
+선풍기 켜기,turning on fan cool
+난로 켜기,turning on heater warm
+전기장판 켜기,turning on heating pad
+침대에 눕기,lying in bed rest
+자기 전 루틴,bedtime routine night
+잠자리 준비,getting ready for sleep
+잠들기,falling asleep night
+알람 맞추기,setting alarm clock
+핸드폰 충전,charging phone battery
+수면 모드,sleep mode phone silent
+취침 시간,bedtime sleeping hour
+늦잠 자기,sleeping in late morning
+주말 늦잠,weekend sleeping late
+평일 기상,weekday wake up routine
+아침 스트레칭,morning stretching exercise
+아침 물 한 잔,morning glass of water
+모닝 커피,morning coffee routine
+신문 읽기,reading newspaper morning
+뉴스 보기,watching news morning
+날씨 확인,checking weather forecast
+일정 확인,checking schedule calendar
+할 일 목록,to do list tasks
+메모 하기,taking notes memo
+카카오톡 확인,checking kakao talk messages
+문자 확인,checking text messages
+통화 하기,making phone call
+영상 통화,video calling face time
+가족 통화,calling family phone
+친구 연락,contacting friend message
+안부 전화,checking in phone call
+생일 축하,birthday wishes celebration
+축하 메시지,congratulation message
+감사 인사,thank you message gratitude
+미안 인사,apology message sorry
+격려 메시지,encouragement message support
+택배 받기,receiving delivery package
+택배 부치기,sending package shipping
+우편물 확인,checking mail postal
+편지 받기,receiving letter mail
+청구서 확인,checking bills payment
+공과금 납부,paying utility bills
+월세 납부,paying rent monthly
+관리비 납부,paying maintenance fee
+카드값 납부,paying credit card bill
+통신비 납부,paying phone bill
+보험료 납부,paying insurance premium
+적금 넣기,depositing savings account
+은행 업무,banking errands
+ATM 이용,using ATM machine
+송금 하기,transferring money bank
+환전 하기,exchanging currency
+주유 하기,getting gas fuel car
+세차 하기,washing car clean
+차량 점검,car maintenance check
+타이어 교체,changing tires car
+오일 교체,changing oil car
+병원 가기,going to hospital medical
+약국 가기,going to pharmacy medicine
+건강검진,health checkup medical
+치과 가기,going to dentist teeth
+안과 가기,going to eye doctor
+피부과 가기,going to dermatologist
+내과 가기,going to clinic doctor
+약 먹기,taking medicine pills
+영양제 먹기,taking vitamins supplements
+마스크 쓰기,wearing mask protection
+손소독,hand sanitizing hygiene
+체온 재기,checking temperature health
+혈압 재기,checking blood pressure
+체중 재기,weighing scale health
+미용실 가기,going to hair salon
+헤어 커트,getting haircut salon
+파마 하기,getting perm hair
+염색 하기,dyeing hair color
+네일 아트,getting nail art manicure
+피부 관리,skincare treatment facial
+마사지 받기,getting massage relaxation
+찜질방 가기,going to korean spa
+사우나 가기,going to sauna steam
+목욕탕 가기,going to bathhouse
+수영장 가기,going to swimming pool
+헬스장 가기,going to gym fitness
+요가원 가기,going to yoga studio
+필라테스 가기,going to pilates studio
+학원 가기,going to academy class
+도서관 가기,going to library study
+카페 가기,going to cafe coffee
+음식점 가기,going to restaurant dining
+마트 가기,going to supermarket grocery
+편의점 가기,going to convenience store
+백화점 가기,going to department store
+쇼핑몰 가기,going to shopping mall
+시장 가기,going to traditional market
+꽃집 가기,going to flower shop
+빵집 가기,going to bakery bread
+정육점 가기,going to butcher meat
+생선가게 가기,going to fish market
+과일가게 가기,going to fruit shop
+채소가게 가기,going to vegetable shop
+철물점 가기,going to hardware store
+세탁소 가기,going to dry cleaner
+수선집 가기,going to tailor alteration
+신발 수선,shoe repair cobbler
+열쇠 복사,key duplication locksmith
+우체국 가기,going to post office
+구청 가기,going to district office
+동사무소 가기,going to community center
+주민센터 가기,going to resident center
+민원 처리,handling civil affairs
+서류 발급,issuing documents official
+여권 발급,getting passport issued
+비자 신청,applying for visa
+면허 갱신,renewing license
+등록증 발급,getting registration card
+
+# ========== 감정/기분 (300개) ==========
+기분 좋은 날,feeling good happy day
+행복한 하루,happy day joyful
+즐거운 시간,fun time enjoyable
+신나는 기분,excited feeling energetic
+설레는 마음,flutter heart anticipation
+두근두근,heart pounding excitement
+기대되는 마음,looking forward anticipation
+희망찬 아침,hopeful morning optimistic
+긍정적인 하루,positive day outlook
+활기찬 기분,energetic feeling vibrant
+상쾌한 아침,refreshing morning fresh
+개운한 기분,refreshed feeling clean
+후련한 마음,relieved feeling clear
+뿌듯한 마음,proud feeling accomplished
+보람찬 하루,rewarding day fulfilling
+감사한 마음,grateful heart thankful
+감동적인 순간,touching moment emotional
+따뜻한 마음,warm heart feeling
+포근한 느낌,cozy warm feeling
+편안한 마음,comfortable relaxed feeling
+평온한 하루,peaceful day calm
+고요한 시간,quiet time serene
+차분한 마음,calm mind peaceful
+여유로운 시간,leisurely time relaxed
+한가로운 오후,idle afternoon relaxed
+느긋한 기분,laid back feeling easy
+나른한 오후,drowsy afternoon lazy
+졸린 오후,sleepy afternoon tired
+피곤한 저녁,tired evening exhausted
+지친 하루,exhausting day worn out
+힘든 하루,tough day difficult
+바쁜 하루,busy day hectic
+정신없는 하루,chaotic day overwhelming
+스트레스 받는,stressed out tense
+답답한 마음,frustrated feeling stuffy
+짜증나는 일,annoying thing irritating
+화나는 일,angry thing frustrating
+속상한 마음,upset heart sad
+서운한 마음,disappointed feeling let down
+아쉬운 마음,regretful feeling miss
+그리운 마음,missing feeling longing
+외로운 밤,lonely night alone
+쓸쓸한 기분,lonely feeling melancholy
+우울한 날,depressing day blue
+슬픈 마음,sad heart tearful
+눈물 나는,tearful crying emotional
+감상적인 밤,sentimental night emotional
+회상하는 시간,reminiscing time memory
+추억에 잠기다,lost in memories nostalgia
+옛 생각,old memories thinking
+그때 그 시절,those days past times
+좋았던 시절,good old days past
+잊지 못할 순간,unforgettable moment memory
+소중한 기억,precious memory cherish
+특별한 하루,special day memorable
+의미있는 시간,meaningful time significant
+값진 경험,valuable experience precious
+새로운 시작,new beginning fresh start
+새출발,fresh start new chapter
+변화의 시작,beginning of change
+도전하는 마음,challenging spirit brave
+용기 내기,gathering courage brave
+자신감 얻기,gaining confidence boost
+성취감,sense of achievement success
+만족스러운,satisfying feeling content
+충만한 마음,fulfilled heart content
+가득 찬 마음,full heart complete
+넘치는 에너지,overflowing energy vibrant
+열정적인 하루,passionate day enthusiastic
+의욕 넘치는,motivated feeling driven
+집중하는 시간,focusing time concentrated
+몰입하는 순간,immersed moment flow
+깨달음의 순간,moment of realization insight
+영감 받는,inspired feeling creative
+창의적인 기분,creative feeling artistic
+상상력 발휘,imagination at work creative
+아이디어 떠오름,idea coming up creative
+번뜩이는 생각,brilliant idea flash
+문득 든 생각,sudden thought random
+깊은 생각,deep thinking contemplation
+명상하는 시간,meditating time mindful
+내면의 평화,inner peace calm
+마음의 안정,mental stability peace
+정신적 휴식,mental rest relaxation
+심신 안정,mind body relaxation
+재충전 시간,recharging time refresh
+힐링 시간,healing time recovery
+치유의 시간,time of healing recovery
+위로받는 느낌,comforted feeling soothed
+격려받는 느낌,encouraged feeling supported
+응원받는 느낌,cheered feeling supported
+사랑받는 느낌,loved feeling cherished
+소속감,sense of belonging community
+연결된 느낌,connected feeling bond
+함께하는 기쁨,joy of togetherness shared
+나누는 행복,sharing happiness giving
+베푸는 마음,generous heart giving
+친절한 마음,kind heart gentle
+다정한 마음,affectionate heart warm
+배려하는 마음,considerate heart caring
+이해하는 마음,understanding heart empathy
+공감하는 마음,empathetic heart feeling
+위로하는 마음,comforting heart soothing
+격려하는 마음,encouraging heart supportive
+
+# ========== 장소/공간 (400개) ==========
+우리 집,my home house cozy
+거실,living room sofa comfortable
+침실,bedroom bed sleep
+주방,kitchen cooking food
+화장실,bathroom toilet sink
+베란다,balcony veranda outdoor
+옥상,rooftop terrace sky view
+마당,yard garden outdoor
+현관,entrance doorway home
+복도,hallway corridor passage
+계단,stairs steps climbing
+엘리베이터,elevator lift building
+지하실,basement underground storage
+다락방,attic room upstairs
+서재,study room books desk
+작업실,studio workspace creative
+드레스룸,dressing room closet clothes
+세탁실,laundry room washing
+창고,storage room warehouse
+차고,garage car parking
+사무실,office workplace desk
+회의실,meeting room conference
+휴게실,break room lounge relax
+탕비실,pantry room office kitchen
+카페테리아,cafeteria dining food
+로비,lobby entrance building
+복합 공간,multipurpose space area
+코워킹 스페이스,coworking space shared office
+공유 오피스,shared office workspace
+카페,cafe coffee shop cozy
+커피숍,coffee shop barista drink
+북카페,book cafe reading coffee
+브런치 카페,brunch cafe food morning
+디저트 카페,dessert cafe sweet treats
+베이커리 카페,bakery cafe bread pastry
+로스터리 카페,roastery cafe coffee beans
+테라스 카페,terrace cafe outdoor seating
+루프탑 카페,rooftop cafe sky view
+한옥 카페,hanok cafe traditional korean
+정원 카페,garden cafe green plants
+갤러리 카페,gallery cafe art exhibition
+음악 카페,music cafe live performance
+레코드 카페,record cafe vinyl music
+고양이 카페,cat cafe pets cute
+강아지 카페,dog cafe pets friendly
+식물 카페,plant cafe green botanical
+꽃 카페,flower cafe floral beautiful
+레스토랑,restaurant dining fine
+한식당,korean restaurant traditional food
+일식당,japanese restaurant sushi
+중식당,chinese restaurant noodles
+양식당,western restaurant steak
+이탈리안,italian restaurant pasta pizza
+프렌치,french restaurant fine dining
+태국 음식점,thai restaurant spicy food
+베트남 음식점,vietnamese restaurant pho
+인도 음식점,indian restaurant curry
+멕시칸,mexican restaurant taco
+퓨전 레스토랑,fusion restaurant creative
+오마카세,omakase chef selection
+비스트로,bistro casual dining
+펍,pub beer bar casual
+바,bar cocktail drinks night
+와인바,wine bar elegant drinks
+칵테일바,cocktail bar mixology drinks
+루프탑 바,rooftop bar city view night
+호텔 바,hotel bar lounge elegant
+재즈바,jazz bar live music
+라운지,lounge relax upscale
+클럽,club dancing nightlife
+노래방,karaoke singing room
+포차,korean tent bar pojangmacha
+이자카야,izakaya japanese pub
+호프집,beer pub korean
+치킨집,chicken restaurant korean
+분식집,korean snack restaurant
+김밥집,kimbap restaurant quick meal
+국밥집,soup rice restaurant korean
+백반집,korean home meal restaurant
+정식집,set meal restaurant korean
+횟집,raw fish restaurant seafood
+고깃집,meat restaurant bbq
+삼겹살집,pork belly restaurant
+갈비집,rib restaurant korean bbq
+곱창집,intestine restaurant korean
+닭갈비집,chicken galbi restaurant
+찜닭집,braised chicken restaurant
+보쌈집,bossam restaurant pork
+냉면집,cold noodle restaurant
+칼국수집,knife noodle restaurant
+만두집,dumpling restaurant korean
+떡볶이집,tteokbokki restaurant snack
+순대집,sundae blood sausage restaurant
+족발집,pig feet restaurant
+감자탕집,pork bone soup restaurant
+해장국집,hangover soup restaurant
+설렁탕집,ox bone soup restaurant
+추어탕집,loach soup restaurant
+삼계탕집,ginseng chicken soup restaurant
+콩나물국밥집,bean sprout soup restaurant
+순두부집,soft tofu restaurant
+전집,korean pancake restaurant
+막걸리집,rice wine restaurant traditional
+전통찻집,traditional tea house
+떡집,rice cake shop korean
+제과점,bakery pastry shop
+빵집,bread shop bakery
+케이크 가게,cake shop dessert
+아이스크림 가게,ice cream shop frozen
+초콜릿 가게,chocolate shop sweet
+젤라또 가게,gelato shop italian ice cream
+마카롱 가게,macaron shop french dessert
+도넛 가게,donut shop fried dough
+크레페 가게,crepe shop french pancake
+와플 가게,waffle shop breakfast
+팬케이크 가게,pancake shop breakfast
+공원,park outdoor green nature
+놀이터,playground children swings
+산책로,walking trail path
+자전거 도로,bike path cycling
+조깅 코스,jogging course running
+분수대,fountain water feature
+벤치,bench sitting outdoor
+잔디밭,lawn grass field green
+꽃밭,flower bed garden colorful
+정원,garden plants landscaping
+식물원,botanical garden plants
+온실,greenhouse plants warm
+숲,forest trees nature
+숲길,forest trail hiking path
+등산로,hiking trail mountain
+계곡,valley stream mountain
+폭포,waterfall nature scenic
+호수,lake water calm
+강,river flowing water
+바다,ocean sea beach
+해변,beach sandy shore
+모래사장,sandy beach shore
+갯벌,mud flat tidal
+항구,harbor port boats
+등대,lighthouse coastal beacon
+포구,fishing port harbor
+선착장,dock pier boarding
+요트장,yacht marina boats
+해안도로,coastal road scenic drive
+전망대,observation deck view point
+스카이라인,skyline city view
+야경 명소,night view spot city lights
+일출 명소,sunrise spot morning view
+일몰 명소,sunset spot evening view
+산 정상,mountain peak summit
+능선,ridge mountain hiking
+암벽,rock wall climbing
+동굴,cave underground exploration
+협곡,canyon gorge valley
+들판,field meadow open
+초원,grassland prairie green
+목장,ranch farm pastoral
+농장,farm agricultural rural
+과수원,orchard fruit trees
+포도밭,vineyard grape farm
+논,rice paddy field
+밭,field farming crop
+시골길,country road rural
+마을,village town rural
+전통 마을,traditional village heritage
+한옥마을,hanok village korean
+올레길,olle trail jeju walking
+둘레길,dulle trail surrounding path
+해파랑길,haeparang trail coastal
+지리산 둘레길,jirisan trail mountain
+제주 올레,jeju olle trail island
+도심,downtown city center urban
+번화가,busy street commercial
+명동,myeongdong shopping district
+강남,gangnam district modern
+홍대,hongdae university area trendy
+이태원,itaewon international district
+성수동,seongsu dong hipster area
+연남동,yeonnam dong cafe street
+익선동,ikseon dong hanok street
+을지로,euljiro retro industrial
+북촌,bukchon hanok village traditional
+삼청동,samcheong dong galleries
+인사동,insadong traditional crafts
+광화문,gwanghwamun palace area
+경복궁,gyeongbokgung palace royal
+창덕궁,changdeokgung palace garden
+덕수궁,deoksugung palace stone wall
+남산타워,namsan tower seoul landmark
+한강공원,hangang park riverside
+여의도,yeouido island business
+잠실,jamsil area stadium
+코엑스,coex convention mall
+롯데타워,lotte tower landmark tall
+동대문,dongdaemun market fashion
+남대문,namdaemun market traditional
+노량진,noryangjin fish market
+가로수길,garosu gil tree lined street
+청담동,cheongdam dong luxury
+압구정,apgujeong upscale area
+신사동,sinsa dong fashion
+서촌,seochon village artistic
+망원동,mangwon dong local vibe
+합정,hapjeong area trendy
+상수,sangsu cafe street
+연희동,yeonhui dong residential quiet
+
+# ========== 쇼핑/패션 (200개) ==========
+쇼핑하기,shopping buying things
+옷 쇼핑,clothes shopping fashion
+신발 쇼핑,shoe shopping footwear
+가방 쇼핑,bag shopping accessories
+악세서리 쇼핑,accessory shopping jewelry
+화장품 쇼핑,cosmetics shopping beauty
+향수 쇼핑,perfume shopping fragrance
+시계 쇼핑,watch shopping timepiece
+안경 쇼핑,glasses shopping eyewear
+모자 쇼핑,hat shopping headwear
+스카프 쇼핑,scarf shopping accessory
+장갑 쇼핑,gloves shopping winter
+양말 쇼핑,socks shopping essentials
+속옷 쇼핑,underwear shopping basics
+운동복 쇼핑,sportswear shopping athletic
+수영복 쇼핑,swimwear shopping summer
+잠옷 쇼핑,pajamas shopping sleepwear
+정장 쇼핑,suit shopping formal
+원피스 쇼핑,dress shopping feminine
+청바지 쇼핑,jeans shopping denim
+티셔츠 쇼핑,t-shirt shopping casual
+니트 쇼핑,knit shopping sweater
+코트 쇼핑,coat shopping outerwear
+자켓 쇼핑,jacket shopping layering
+패딩 쇼핑,padding shopping winter coat
+후드티 쇼핑,hoodie shopping casual
+맨투맨 쇼핑,sweatshirt shopping cozy
+블라우스 쇼핑,blouse shopping elegant
+셔츠 쇼핑,shirt shopping classic
+카디건 쇼핑,cardigan shopping layering
+조끼 쇼핑,vest shopping layering
+반바지 쇼핑,shorts shopping summer
+치마 쇼핑,skirt shopping feminine
+슬랙스 쇼핑,slacks shopping formal
+레깅스 쇼핑,leggings shopping comfortable
+트레이닝복 쇼핑,tracksuit shopping athletic
+가디건 쇼핑,cardigan shopping knitwear
+베스트 쇼핑,vest shopping layering
+점퍼 쇼핑,jumper shopping casual
+야상 쇼핑,field jacket shopping military
+트렌치코트,trench coat shopping classic
+롱코트 쇼핑,long coat shopping elegant
+숏코트 쇼핑,short coat shopping cropped
+무스탕 쇼핑,shearling coat shopping warm
+가죽자켓,leather jacket shopping edgy
+데님자켓,denim jacket shopping casual
+봄버자켓,bomber jacket shopping trendy
+바시티자켓,varsity jacket shopping sporty
+플리스자켓,fleece jacket shopping cozy
+윈드브레이커,windbreaker shopping light
+레인코트,raincoat shopping waterproof
+신발 구경,looking at shoes footwear
+운동화 쇼핑,sneakers shopping athletic
+구두 쇼핑,dress shoes shopping formal
+로퍼 쇼핑,loafers shopping classic
+슬리퍼 쇼핑,slippers shopping comfort
+샌들 쇼핑,sandals shopping summer
+부츠 쇼핑,boots shopping fall winter
+앵클부츠,ankle boots shopping trendy
+롱부츠,long boots shopping tall
+워커 쇼핑,walker shoes shopping rugged
+스니커즈 쇼핑,sneakers shopping street
+플랫슈즈,flat shoes shopping comfortable
+하이힐 쇼핑,high heels shopping elegant
+웨지힐,wedge heels shopping comfortable
+키높이 신발,height increasing shoes
+쿠션 신발,cushioned shoes comfortable
+런닝화,running shoes athletic
+등산화,hiking boots outdoor
+축구화,soccer cleats sports
+농구화,basketball shoes sports
+테니스화,tennis shoes sports
+골프화,golf shoes sports
+볼링화,bowling shoes sports
+슬립온,slip on shoes easy
+스니커즈,sneakers casual shoes
+캔버스화,canvas shoes casual
+명품 쇼핑,luxury shopping designer
+빈티지 쇼핑,vintage shopping retro
+중고 쇼핑,secondhand shopping thrift
+세일 쇼핑,sale shopping discount
+아울렛 쇼핑,outlet shopping bargain
+온라인 쇼핑,online shopping delivery
+해외직구,overseas shopping import
+면세점 쇼핑,duty free shopping
+백화점 쇼핑,department store shopping
+편집샵 쇼핑,select shop shopping
+SPA 브랜드,fast fashion shopping
+디자이너 브랜드,designer brand shopping
+스트리트 브랜드,streetwear shopping
+스포츠 브랜드,sports brand shopping
+캐주얼 브랜드,casual brand shopping
+럭셔리 브랜드,luxury brand shopping
+친환경 패션,eco fashion sustainable
+비건 패션,vegan fashion ethical
+업사이클링 패션,upcycled fashion creative
+핸드메이드 패션,handmade fashion artisan
+맞춤 정장,custom suit tailored
+맞춤 셔츠,custom shirt tailored
+맞춤 구두,custom shoes bespoke
+
+# ========== 건강/운동 (200개) ==========
+아침 운동,morning exercise workout
+저녁 운동,evening exercise workout
+홈트레이닝,home training workout
+헬스장 운동,gym workout fitness
+웨이트 트레이닝,weight training strength
+유산소 운동,cardio exercise aerobic
+근력 운동,strength training muscle
+스트레칭,stretching flexibility warm up
+요가 수련,yoga practice mindful
+필라테스 수업,pilates class core
+명상 시간,meditation time mindful
+호흡 운동,breathing exercise relax
+걷기 운동,walking exercise outdoor
+조깅 운동,jogging exercise running
+러닝 운동,running exercise cardio
+마라톤 훈련,marathon training long run
+사이클링,cycling exercise bike
+수영 운동,swimming exercise pool
+아쿠아로빅,aqua aerobics water
+등산 운동,hiking exercise mountain
+클라이밍 운동,climbing exercise bouldering
+크로스핏,crossfit training intense
+에어로빅,aerobics exercise dance
+줌바 댄스,zumba dance workout
+스피닝,spinning cycling indoor
+복싱 운동,boxing exercise combat
+킥복싱,kickboxing exercise martial
+태권도 수련,taekwondo martial arts
+유도 수련,judo martial arts
+검도 수련,kendo martial arts
+합기도 수련,hapkido martial arts
+무에타이,muay thai martial arts
+주짓수,jiu jitsu martial arts
+MMA 트레이닝,mma training mixed martial
+골프 연습,golf practice swing
+테니스 운동,tennis exercise racket
+배드민턴 운동,badminton exercise shuttle
+탁구 운동,table tennis exercise paddle
+스쿼시 운동,squash exercise racket
+볼링 운동,bowling exercise ball
+당구 운동,billiards exercise pool
+양궁 연습,archery practice bow
+사격 연습,shooting practice target
+승마 운동,horse riding equestrian
+스키 운동,skiing exercise winter
+스노보드 운동,snowboarding winter
+스케이트,skating ice rink
+인라인,inline skating outdoor
+서핑 운동,surfing exercise wave
+다이빙,diving water sports
+카약 운동,kayaking water paddle
+조정 운동,rowing exercise boat
+윈드서핑,windsurfing water sports
+패러글라이딩,paragliding adventure
+번지점프,bungee jumping thrill
+스카이다이빙,skydiving adventure
+식단 관리,diet management healthy eating
+칼로리 계산,calorie counting diet
+단백질 섭취,protein intake nutrition
+탄수화물 조절,carb control diet
+저염식,low sodium diet healthy
+저당식,low sugar diet healthy
+채식 식단,vegetarian diet plant based
+비건 식단,vegan diet plant only
+키토 식단,keto diet low carb
+간헐적 단식,intermittent fasting diet
+다이어트 식단,diet meal plan weight loss
+벌크업 식단,bulking diet muscle gain
+영양제 섭취,supplement intake vitamins
+프로틴 섭취,protein shake workout
+비타민 섭취,vitamin intake health
+오메가3 섭취,omega 3 intake health
+유산균 섭취,probiotics intake gut health
+콜라겐 섭취,collagen intake skin health
+마그네슘 섭취,magnesium intake health
+아연 섭취,zinc intake immune health
+철분 섭취,iron intake blood health
+칼슘 섭취,calcium intake bone health
+수면 관리,sleep management rest
+숙면 취하기,getting good sleep rest
+기상 시간 관리,wake time management routine
+낮잠 취하기,taking nap rest
+피로 회복,fatigue recovery rest
+스트레스 관리,stress management mental health
+멘탈 케어,mental care wellbeing
+마음 관리,mind care mental health
+심신 안정,mind body relaxation
+건강 검진,health checkup medical
+혈압 체크,blood pressure check
+혈당 체크,blood sugar check
+체지방 체크,body fat check
+근육량 체크,muscle mass check
+BMI 체크,bmi check body index
+콜레스테롤 체크,cholesterol check
+체온 체크,temperature check health
+맥박 체크,pulse check heart rate
+심전도 검사,ecg test heart
+초음파 검사,ultrasound test
+MRI 검사,mri scan test
+CT 검사,ct scan test
+X선 검사,x ray test
+
+# ========== 자연/풍경 (200개) ==========
+푸른 하늘,blue sky clear sunny
+맑은 하늘,clear sky bright sunny
+구름 풍경,cloud scenery sky
+뭉게구름,cumulus clouds fluffy
+새털구름,cirrus clouds wispy
+비구름,rain clouds dark
+노을 하늘,sunset sky orange pink
+일출 풍경,sunrise scenery morning
+일몰 풍경,sunset scenery evening
+달빛 풍경,moonlight scenery night
+별빛 풍경,starlight scenery night
+은하수 풍경,milky way stars galaxy
+오로라 풍경,aurora northern lights
+무지개 풍경,rainbow scenery colorful
+안개 풍경,fog scenery misty
+이슬 맺힌,dewdrops morning fresh
+서리 내린,frost covered cold morning
+눈 덮인,snow covered winter white
+얼음 풍경,ice scenery frozen winter
+봄 풍경,spring scenery blooming
+여름 풍경,summer scenery green
+가을 풍경,autumn scenery colorful
+겨울 풍경,winter scenery snowy
+벚꽃 풍경,cherry blossom spring pink
+단풍 풍경,autumn leaves colorful
+낙엽 풍경,fallen leaves autumn
+은행나무 풍경,ginkgo trees yellow autumn
+소나무 풍경,pine trees green evergreen
+대나무 숲,bamboo forest green
+자작나무 숲,birch forest white trees
+메타세쿼이아,metasequoia tree road
+플라타너스,plane tree lined road
+산 풍경,mountain scenery peaks
+능선 풍경,ridge scenery mountain
+계곡 풍경,valley scenery stream
+폭포 풍경,waterfall scenery flowing
+호수 풍경,lake scenery calm water
+연못 풍경,pond scenery peaceful
+강 풍경,river scenery flowing
+시냇물 풍경,stream scenery babbling
+바다 풍경,ocean scenery vast
+해변 풍경,beach scenery sandy
+파도 풍경,wave scenery ocean
+조개껍데기,seashells beach sand
+갯바위 풍경,rocky shore ocean
+절벽 풍경,cliff scenery dramatic
+동굴 풍경,cave scenery underground
+사막 풍경,desert scenery sandy
+오아시스 풍경,oasis scenery desert
+초원 풍경,meadow scenery green grass
+들판 풍경,field scenery open
+꽃밭 풍경,flower field colorful
+해바라기밭,sunflower field yellow
+라벤더밭,lavender field purple
+튤립밭,tulip field colorful
+유채꽃밭,canola field yellow
+억새밭,silver grass field autumn
+코스모스밭,cosmos flower field pink
+장미정원,rose garden romantic
+수국정원,hydrangea garden blue pink
+철쭉동산,azalea hill spring pink
+연꽃 풍경,lotus flower pond
+수련 풍경,water lily pond
+억새 풍경,silver grass autumn
+갈대 풍경,reed field water
+대나무 풍경,bamboo scenery green
+이끼 풍경,moss covered green
+고사리 풍경,fern forest green
+야자수 풍경,palm trees tropical
+선인장 풍경,cactus desert plants
+다육식물,succulent plants cute
+공기정화 식물,air purifying plants indoor
+관엽식물,foliage plants green indoor
+화분 식물,potted plants indoor
+창가 식물,window plants sunlight
+베란다 정원,balcony garden plants
+옥상 정원,rooftop garden urban
+실내 정원,indoor garden plants
+테라리움,terrarium mini garden
+아쿠아리움,aquarium fish tank
+분재 나무,bonsai tree miniature
+정원 조경,garden landscaping design
+돌담 풍경,stone wall traditional
+오솔길,narrow path trail
+징검다리,stepping stones path
+나무 그늘,tree shade cool
+숲속 오두막,cabin in forest retreat
+전원 풍경,rural scenery pastoral
+시골 풍경,countryside scenery
+농촌 풍경,farming village rural
+어촌 풍경,fishing village coastal
+산촌 풍경,mountain village remote
+섬 풍경,island scenery ocean
+갯벌 풍경,tidal flat scenery mudflat
+습지 풍경,wetland scenery marsh
+저수지 풍경,reservoir scenery water
+댐 풍경,dam scenery water
+다리 풍경,bridge scenery crossing
+터널 풍경,tunnel scenery passage
+도로 풍경,road scenery path
+고속도로 풍경,highway scenery driving
